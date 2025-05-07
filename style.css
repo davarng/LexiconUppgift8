@@ -36,3 +36,8 @@ a.navbar-brand {
 a.nav-link {
   color: #fff;
 }
+
+section {
+  padding-left: 10px;
+  padding-right: 10px;
+}
